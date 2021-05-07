@@ -1,2 +1,2 @@
 # button
-um simples botao em HTML que sempre que clicado muda de nome.
+a simple HTML button that changes its name every time it is clicked.
